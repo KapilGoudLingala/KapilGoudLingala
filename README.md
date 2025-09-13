@@ -16,7 +16,7 @@ Additionally, I am expanding my knowledge in **Cloud Architecture (AWS)**, **Lar
 - Data Encryption and Secure Systems  
 
 🔗 Let’s connect:  
-[LinkedIn](https://www.linkedin.com/in/kapil-goud-lingala) | [GitHub](https://github.com/kapilgoudlingala)
+[LinkedIn](https://www.linkedin.com/in/kapil-goud-lingala)
 
 ---
 
