@@ -1,6 +1,6 @@
-## Hi 👋, I'm Kapil Goud Lingala
+#### Hi 👋, I'm Kapil Goud Lingala
 
-I am a **Python Full-Stack Developer and Generative AI Enthusiast**, passionate about building end-to-end web applications and solving real-world problems using modern technologies.
+## I am a **Python Full-Stack Developer and Generative AI Enthusiast**, passionate about building end-to-end web applications and solving real-world problems using modern technologies.
 
 🌱 I’m currently focused on advancing my skills in **Python Full-Stack Development**, including backend frameworks like **Django, Flask, FastAPI**, and front-end technologies such as **React.js, HTML, CSS, and JavaScript**.  
 Additionally, I am expanding my knowledge in **Cloud Architecture (AWS)**, **Large Language Models (LLMs)**, and **Scalable AI Solutions**.
