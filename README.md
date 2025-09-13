@@ -15,13 +15,15 @@ Additionally, I am expanding my knowledge in **Cloud Architecture (AWS)**, **Lar
 - Generative AI & LLM Applications  
 - Data Encryption and Secure Systems  
 
-🔗 Let’s connect:  
+## 🔗Let’s connect:  
 [LinkedIn](https://www.linkedin.com/in/kapil-goud-lingala)
 
 ---
 
-### 🛠️ Languages and Tools  
+## 🛠️ Languages and Tools  
 
-🐍 Python | ⚛️ Django | 🚀 Flask | ⚡ FastAPI | ⚛️ React.js | 🌐 HTML5 | 🎨 CSS3 | 💻 JavaScript  
-🗄️ MySQL | 🐘 PostgreSQL | 🧱 SQLite | ☁️ AWS (EC2, S3, RDS, IAM, CloudFormation) | 🐳 Docker  
-📊 Pandas | 📈 NumPy | 🔐 PyCryptodome | 🧠 OpenAI Whisper | 📓 Jupyter Notebook | 🔧 Git | 🖥️ GitHub  
+🐍 **Python** | ⚛️ **Django** | 🚀 **Flask** | ⚡ **FastAPI** | ⚛️ **React.js** | 🌐 **HTML5** | 🎨 **CSS3** | 💻 **JavaScript**  
+🗄️ **MySQL** | 🐘 **PostgreSQL** | 🧱 **SQLite** | ☁️ **AWS (EC2, S3, RDS, IAM, CloudFormation)** | 🐳 **Docker**  
+📊 **Pandas** | 📈 **NumPy** | 🔐 **PyCryptodome** | 🧠 **OpenAI Whisper** | 🤖 **Generative AI (LLMs, GPT models, Chatbots)** | 💬 **NLP (spaCy, NLTK)** | ⚙️ **LangChain, Llama Index**  
+📓 **Jupyter Notebook** | 🔧 **Git** | 🖥️ **GitHub**
+  
